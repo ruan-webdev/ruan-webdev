@@ -13,7 +13,7 @@ You can contact me by:
 
 ## SKILLS 🤹
 
-- **HTML*** 	⭐⭐⭐
+- **HTML** 	⭐⭐⭐
 - **CSS**		⭐⭐⭐
 - **JAVASCRIPT** ⭐⭐
 - **REACT.JS** ⭐⭐
