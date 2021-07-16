@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello Everyone 👋!
 
-<!--
-**ruan-webdev/ruan-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ruan Campos, i'm from Brazil  and I am a student of systems analysis and development at FATEC Mogi Das Cruzes 💻
+ I've been in love with technology since I was a child, and since 2015, I've been developing different types of applications in the most diverse languages 💡 always looking to reach the next level 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CONTACT  📞
+  
+You can contact me by:  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ruan%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-campos-silva/)](https://www.linkedin.com/in/ruan-campos-silva/) 
+[![Gmail Badge](https://img.shields.io/badge/-ruancamposdemarcos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruancamposdemarcos@gmail.com)](mailto:ruancamposdemarcos@gmail.com)
+
+## SKILLS 🤹
+
+- **HTML*** 	⭐⭐⭐
+- **CSS**		⭐⭐⭐
+- **JAVASCRIPT** ⭐⭐
+- **REACT.JS** ⭐⭐
+- **NODE.JS** ⭐⭐
+- **TYPESCRIPT** ⭐
+- **PHP** ⭐⭐
+- **SQL** ⭐⭐⭐
+- **JAVA** ⭐⭐⭐
+- **DESIGN PATTERNS** ⭐
+- **MVC** ⭐⭐
