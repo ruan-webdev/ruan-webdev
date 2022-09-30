@@ -17,8 +17,9 @@ You can contact me by:
 - **CSS**		⭐⭐⭐
 - **JAVASCRIPT** ⭐⭐
 - **REACT.JS** ⭐⭐
+- **REACT.NATIVE** ⭐⭐
 - **NODE.JS** ⭐⭐
-- **TYPESCRIPT** ⭐
+- **TYPESCRIPT** ⭐⭐
 - **PHP** ⭐⭐
 - **SQL** ⭐⭐⭐
 - **JAVA** ⭐⭐⭐
