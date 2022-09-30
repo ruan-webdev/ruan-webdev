@@ -21,7 +21,7 @@ You can contact me by:
 - **NODE.JS** ⭐⭐
 - **TYPESCRIPT** ⭐⭐
 - **PHP** ⭐⭐
-- **SQL** ⭐⭐⭐
-- **JAVA** ⭐⭐⭐
+- **SQL** ⭐⭐
+- **JAVA** ⭐⭐
 - **DESIGN PATTERNS** ⭐
 - **MVC** ⭐⭐
