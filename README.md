@@ -1,6 +1,6 @@
 # Hello Everyone 👋!
 
-My name is Ruan Campos, i'm from Brazil  and I am a student of systems analysis and development at FATEC Mogi Das Cruzes 💻
+My name is Ruan Campos, i'm from Brazil and i'm graduated of systems analysis and development at FATEC Mogi Das Cruzes 💻
  I've been in love with technology since I was a child, developing different types of applications in the most diverse languages 💡 always looking to reach the next level. 🚀
 
 
