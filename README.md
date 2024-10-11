@@ -9,7 +9,7 @@ My name is Ruan Campos, i'm from Brazil and i'm graduated of systems analysis an
 You can contact me by:  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ruan%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-campos-silva/)](https://www.linkedin.com/in/ruan-campos-silva/) 
-[![Gmail Badge](https://img.shields.io/badge/-ruancamposdemarcos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruancamposdemarcos@gmail.com)](mailto:ruancamposdemarcos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ruancampos.contato@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruancampos.contato@gmail.com)](mailto:ruancampos.contato@gmail.com)
 
 ## SKILLS 🤹
 
