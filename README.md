@@ -16,12 +16,12 @@ You can contact me by:
 - **HTML** 	⭐⭐⭐
 - **CSS**		⭐⭐⭐
 - **JAVASCRIPT** ⭐⭐
-- **REACT.JS** ⭐⭐
+- **REACT.JS** ⭐⭐⭐
 - **REACT.NATIVE** ⭐⭐
 - **NODE.JS** ⭐⭐
 - **TYPESCRIPT** ⭐⭐
-- **PHP** ⭐⭐
+- **NEXT.JS** ⭐⭐
 - **SQL** ⭐⭐
 - **JAVA** ⭐⭐
-- **DESIGN PATTERNS** ⭐
+- **DESIGN PATTERNS** ⭐⭐
 - **MVC** ⭐⭐
