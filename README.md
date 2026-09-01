@@ -65,4 +65,4 @@ Today I work as a **Data Engineer at Dadosfera**, building robust data pipelines
 
 ---
 
-<p align="center"><i>Open to talking about data, engineering and data science — reach out via the email above 👆</i></p>
+<p align="center"><i>Open to talking about data, engineering and data science </i></p>
